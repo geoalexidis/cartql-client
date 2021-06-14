@@ -1,6 +1,7 @@
 # @geoalexidis/cartql-client
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/geoalexidis/cartql-client.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/geoalexidis/cartql-client/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/geoalexidis/cartql-client.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/geoalexidis/cartql-client/context:javascript)
 
 Simple typed [cartql](https://cartql.com/) client created wit the help of https://genql.now.sh/
 
