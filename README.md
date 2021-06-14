@@ -1,5 +1,7 @@
 # @geoalexidis/cartql-client
 
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/geoalexidis/cartql-client.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/geoalexidis/cartql-client/alerts/)
+
 Simple typed [cartql](https://cartql.com/) client created wit the help of https://genql.now.sh/
 
 ## Examples get and mutate
